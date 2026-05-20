@@ -6,3 +6,6 @@ Once python is installed, make sure these are installed while running the termin
 - colorama
 To install the listed above, simply type: pip install -m <insert-word-above>
 
+To run the game, type: python dual_character_game.py
+Then hit 'Enter'
+
