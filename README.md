@@ -4,6 +4,7 @@ To install python, head to: python.org/downloads
 Once python is installed, make sure these are installed while running the terminal:
 - keyboard
 - colorama
+
 To install the listed above, simply type: pip install -m <insert-word-above>
 
 To run the game, type: python dual_character_game.py
